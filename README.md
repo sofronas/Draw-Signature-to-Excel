@@ -1,4 +1,4 @@
-# Draw-Signature-to-Excel-VBA-Python
+# Draw-Signature-to-Excel-VBA-Python + C# Version
 
 - Create a button via Developers Tab.
    If Developer Tab is missing:
@@ -8,6 +8,7 @@
 
 Paste Code in VBA area.
 Set up your file locations. (python location + python file)
+Or set up location of .net in path mode + .exe file with .dll
 
 Enable Always Run Macro:
 1.Click the File tab.
